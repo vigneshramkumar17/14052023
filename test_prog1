@@ -1,0 +1,3 @@
+// This is a JS example
+const test = "Hello";
+console.log(test);
